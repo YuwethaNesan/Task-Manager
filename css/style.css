@@ -1,0 +1,58 @@
+body {
+    background: #ffffff!important;
+  }
+  
+  * {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+  }
+  .navbar{
+    background-color: #395D67 !important;
+  }
+  .navbar
+  a{  
+    position: sticky !important;
+    color: rgb(255, 255, 255) !important;
+    font-weight: bold;
+  }
+  .navright
+  a{
+    float: right !important;
+  }
+  
+  .checked {
+    color: #395D67 !important;
+    text-decoration: line-through;
+    stroke-width: 2px;
+  }
+  .todo-img{
+    min-height: 550px !important;
+    max-width: 650px !important;
+    min-width: 750px !important;
+    max-height: 550px !important;
+    margin-left: 600px!important;
+    margin-top: 0px !important;
+    position: fixed !important;
+
+  }
+  .button{
+    color: #ffffff;
+    background-color: #395D67;
+    font-weight: bolder;
+    margin-top: 50px;
+    margin-left: 100px;
+  }
+  .frontbtn{
+    margin: 300px;
+
+  }
+  .heading{
+    color: rgb(173, 1, 1);
+    margin-top: 200px;
+    margin-left: 100px;
+    font-style: normal;
+    font-weight: 900;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+
+  }
